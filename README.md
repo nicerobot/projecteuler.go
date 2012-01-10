@@ -1,0 +1,1 @@
+- `make` to generate next `go` problem
